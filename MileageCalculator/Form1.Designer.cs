@@ -89,9 +89,8 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(143, 99);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(57, 20);
+            this.label1.Size = new System.Drawing.Size(0, 20);
             this.label1.TabIndex = 2;
-            this.label1.Text = "label1";
             // 
             // label2
             // 
@@ -119,7 +118,6 @@
             this.label4.Size = new System.Drawing.Size(74, 13);
             this.label4.TabIndex = 5;
             this.label4.Text = "Amount Owed";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // button1
             // 
